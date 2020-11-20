@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notifications Log</string>
+    <string name="ast_version">Versión</string>
+
+
+    <string name="step_one_title">Notifications Log</string>
+    <string name="step_one_subtitle">Entérate de todo lo que pasa en tu móvil</string>
+
+    <string name="step_two_title">Facil de consultar</string>
+    <string name="step_two_subtitle">Registra todas las notificaciones que te llegan</string>
+
+    <string name="step_three_title">Tema automático</string>
+    <string name="step_three_subtitle">Descansa tu vista con el tema oscuro definido por tu dispositivo</string>
+
+    <string name="step_four_title">Permisos</string>
+    <string name="step_four_subtitle">Notifications log necesita permisos para acceder a tus notificaciones</string>
+    <string name="empty_logs">No tienes ningún registro</string>
+</resources>
